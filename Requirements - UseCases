@@ -1,0 +1,2 @@
+Use case #1:
+As a user I can login to the app with my facebook account and see the welcome screen. I should stay logged in for 10 minutes. After that the app will require me to login again.
